@@ -1,13 +1,15 @@
 # Jogo-frases-Yoda
 > Transcreva as frases do maior mestre do Universo Star Wars (e fora dele), Yoda
 
-![giphy](https://user-images.githubusercontent.com/44420390/65693883-60a36200-e04b-11e9-8df3-6b950d33dbea.gif)
+![source](https://user-images.githubusercontent.com/44420390/65697322-1e7d1f00-e051-11e9-9e93-5be200a14ebd.gif)
 
 ## Exemplo de uso
 
 O projeto ainda está em desenvolvimento, mas é bem simples Padawan: Transcreva as frases aleátorias que surgirem do nosso mestre Yoda antes que o tempo se acabe. 
 
 Lembre-se: Faça ou não faça. Tentar não existe.
+
+![giphy](https://user-images.githubusercontent.com/44420390/65693883-60a36200-e04b-11e9-8df3-6b950d33dbea.gif)
 
 ## Histórico de lançamentos
 
