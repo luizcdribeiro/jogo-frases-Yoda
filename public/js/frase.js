@@ -1,7 +1,18 @@
 $("#botao-frase").click(fraseALeatoria);
 
 function fraseALeatoria() {
-  $.get("http://localhost:3000/frases", trocaFrase);
+  $("#spinner").toggle();
+  $.get("http://localhost:3000/frases", trocaFrase)
+  .fail(function(){
+    $("#erro").show();
+    setTimeout(function(){
+      $("#erro").toggle();
+    }, 2000)
+  })
+  .always(function(){
+    $("#spinner").toggle();
+  })
+
 };
 
 function trocaFrase(data){

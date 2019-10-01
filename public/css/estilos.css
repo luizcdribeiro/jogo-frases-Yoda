@@ -1,3 +1,6 @@
+body {
+    overflow: scroll;
+}
 .campo-digitacao {
     font-size: 20px;
     height: 130px;
@@ -27,6 +30,13 @@
 .placar {
     display: none;
 }
-body {
-    overflow: scroll;
+
+
+#erro {
+    color: red;
+    display: none;
+}
+
+#spinner {
+    display: none;
 }
