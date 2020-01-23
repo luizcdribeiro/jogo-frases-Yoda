@@ -11,20 +11,9 @@ Lembre-se: Faça ou não faça. Tentar não existe.
 
 ![giphy](https://user-images.githubusercontent.com/44420390/65693883-60a36200-e04b-11e9-8df3-6b950d33dbea.gif)
 
-## Histórico de lançamentos
+## Tecnologias utilizadas
 
-* 0.2.1
-    * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
-* 0.2.0
-    * MUDANÇA: Remove `setDefaultXYZ()`
-    * ADD: Adiciona `init()`
-* 0.1.1
-    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
-* 0.1.0
-    * O primeiro lançamento adequado
-    * MUDANÇA: Renomeia `foo()` para `bar()`
-* 0.0.1
-    * Trabalho em andamento
+- Javascript <a> https://developer.mozilla.org/pt-BR/docs/Web/JavaScript </a>
 
 ## Criador
 Luiz Ribeiro - luizjunior.dantas@gmail.com
